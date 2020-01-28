@@ -1,0 +1,118 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "breed": "Poodle",
+      "customerId": 1,
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Bug",
+      "breed": "Pug",
+      "customerId": 2,
+      "locationId": 1
+    },
+    {
+      "name": "Timmy",
+      "breed": "Turtle",
+      "locationId": 1,
+      "customerId": "4",
+      "id": 4
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Hannah Hall",
+      "address": "7002 Chestnut Ct"
+    },
+    {
+      "id": 2,
+      "name": "Hannta Ball",
+      "address": "2007 Almond Pl"
+    },
+    {
+      "id": 3,
+      "name": "Shannta Stall",
+      "address": "7020 Pecan Rd"
+    },
+    {
+      "email": "kevinuspenius@kp.com",
+      "password": "123",
+      "name": "Kevinus Pennius",
+      "id": 4
+    },
+    {
+      "email": "me@me.com",
+      "password": "123",
+      "name": "Me Me",
+      "id": 5
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jeremy Bakker",
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Jeremih Quakker",
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Jerime Akker",
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "name": "Geremi Shakker",
+      "locationId": 1
+    },
+    {
+      "name": "tom tom",
+      "locationId": 1,
+      "id": 5
+    },
+    {
+      "name": "bill bill",
+      "locationId": 1,
+      "id": 6
+    },
+    {
+      "name": "steve steve",
+      "locationId": 1,
+      "id": 7
+    },
+    {
+      "name": "steve bill",
+      "locationId": 2,
+      "id": 8
+    },
+    {
+      "name": "Kevin Penny",
+      "locationId": 2,
+      "id": 9
+    },
+    {
+      "name": "New Employee",
+      "locationId": 2,
+      "id": 10
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8422 Johnson Pike"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    }
+  ]
+}
